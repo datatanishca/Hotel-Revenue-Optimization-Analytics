@@ -28,7 +28,7 @@ The revenue team needed visibility into property-level performance and clarity o
 - Generated actionable revenue and pricing insights
 
 ## Dashboard Preview
-Hotel Revenue Optimization Analytics.png
+Hotel Revenue Optimization Analytics.png : https://github.com/datatanishca/Hotel-Revenue-Optimization-Analytics/blob/main/Hotel%20Revenue%20Optimization%20Analytics.png
 
 ## Key Insights
 - Identified low ADR properties with high occupancy potential
